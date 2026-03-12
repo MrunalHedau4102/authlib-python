@@ -549,9 +549,9 @@ MIT License - see LICENSE file for details
 
 ## Support
 
-- **Issues**: [Create an issue](https://github.com/yourusername/authlib/issues)
-- **Discussions**: [Community discussions](https://github.com/yourusername/authlib/discussions)
-- **Email**: support@authlib.dev
+- **Issues**: [Create an issue](https://github.com/MrunalHedau4102/authlib-python/issues)
+- **Discussions**: [Community discussions](https://github.com/MrunalHedau4102/authlib-python/discussions)
+- **Email**: mrunalh1234@gmail.com
 
 ## Roadmap
 
@@ -577,4 +577,4 @@ MIT License - see LICENSE file for details
 
 ---
 
-**Made with ❤️ by [Your Team]**
+**Made with ❤️ by Mrunal**
